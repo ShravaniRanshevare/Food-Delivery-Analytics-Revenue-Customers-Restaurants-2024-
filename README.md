@@ -24,7 +24,7 @@ The Tableau workbook contains four dashboards:
 Screenshots of all dashboards are included in the `/tableau/screenshots/` folder.
 
 ## 🐍 Python Workflow
-The Python script (`analysis.py`) performs:
+The Python script (`data_analytics.py`) performs:
 
 - Synthetic dataset creation  
 - SQL analysis using DuckDB  
@@ -51,7 +51,7 @@ food-delivery-analytics-project/
 │       ├── dashboard_executive_summary.png
 │
 ├── /python/
-│   ├── analysis.py
+│   ├── data_analytics.py
 ```
 
 ## 🛠️ Tools Used
